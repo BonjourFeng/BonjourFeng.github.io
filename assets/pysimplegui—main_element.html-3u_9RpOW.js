@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-64d13e98","path":"/python/pysimplegui%E2%80%94main_element.html","title":"主要元素","lang":"zh-CN","frontmatter":{"title":"主要元素","description":null},"headers":[],"git":{},"readingTime":{"minutes":1.72,"words":515},"filePathRelative":"python/pysimplegui—main_element.md"}');export{e as data};
