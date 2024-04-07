@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9c243f92","path":"/python/pysimplegui%E2%80%94environment_setup.html","title":"环境设置","lang":"zh-CN","frontmatter":{"title":"环境设置","description":null},"headers":[],"git":{},"readingTime":{"minutes":0.08,"words":23},"filePathRelative":"python/pysimplegui—environment_setup.md"}');export{e as data};

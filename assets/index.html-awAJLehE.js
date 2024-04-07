@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a3e2d4e4","path":"/finance/","title":"金融学","lang":"zh-CN","frontmatter":{"title":"金融学","description":null,"prev":false,"next":false},"headers":[{"level":2,"title":"撰写中（笔记）","slug":"撰写中-笔记","link":"#撰写中-笔记","children":[]}],"git":{},"readingTime":{"minutes":0.3,"words":90},"filePathRelative":"finance/README.md"}');export{e as data};
